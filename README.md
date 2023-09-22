@@ -9,5 +9,6 @@ Taking input from the user:
 
 Win Condition:
 ![image](https://github.com/arslanatakan/Minesweeper/assets/70545078/f7c36e78-0451-4166-99bc-1f3a913c0c33)
+It means [0,1] and [1,2] are the mined cells.
 
 
